@@ -1,0 +1,13 @@
+@@ -1,10 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://theraibox.herokuapp.com",
+    "apiUrl": "https://theraibox.herokuapp.com",
+    "contentApiKey": " 973c40e4d299a1d542b9400b99"
+  },
+  "production": {
+    "apiUrl": "https://theraibox.herokuapp.com",
+    "apiUrl": "https://theraibox.herokuapp.com",
+    "contentApiKey": "973c40e4d299a1d542b9400b99"
+  }
+}
